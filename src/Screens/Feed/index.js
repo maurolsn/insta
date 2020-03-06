@@ -1,11 +1,13 @@
 import React from 'react';
 import {
   View,
+  SafeAreaView,
   Text,
   FlatList,
   Image,
   StyleSheet,
   TouchableOpacity,
+  
 } from 'react-native';
 import options from '../../../assets/options.png';
 import like from '../../../assets/like.png';
@@ -94,13 +96,13 @@ function Feed() {
     );
   }
   return (
-    <View>
+    <SafeAreaView>
       <FlatList
         data={post}
         keyExtractor={item => item.id}
         renderItem={renderItem}
       />
-    </View>
+    </SafeAreaView>
   );
 }
 

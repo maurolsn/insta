@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Mar 04 18:51:54 BRT 2020
+#Thu Mar 05 22:53:13 BRT 2020
 56.path=lib/arm64-v8a/libjsijniprofiler.so
 5.base=/home/leo/ProjetosAulas/insta/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/leo/ProjetosAulas/insta/android/app/build/intermediates/transforms/mergeJniLibs/debug/0

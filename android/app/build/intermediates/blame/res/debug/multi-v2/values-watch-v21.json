@@ -4,7 +4,7 @@
             "outputFile": "/home/leo/ProjetosAulas/insta/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
             "map": [
                 {
-                    "source": "/home/leo/.gradle/caches/transforms-2/files-2.1/383c89e617a95ee2d08810b96204294c/res/values-watch-v21/values-watch-v21.xml",
+                    "source": "/home/leo/.gradle/caches/transforms-2/files-2.1/30e3f546eac6476496a8d5a9ec512a18/res/values-watch-v21/values-watch-v21.xml",
                     "from": {
                         "startLines": "2,6,10",
                         "startColumns": "4,4,4",

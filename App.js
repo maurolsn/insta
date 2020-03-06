@@ -1,8 +1,8 @@
 import React from 'react';
 import {View} from 'react-native';
 
-import Feed from './src/Screens/Feed';
+import Routes from './src/routes';
 
 export default function insta() {
-  return <Feed />;
+  return <Routes />;
 }

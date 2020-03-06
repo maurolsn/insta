@@ -4,7 +4,7 @@
             "outputFile": "/home/leo/ProjetosAulas/insta/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/home/leo/.gradle/caches/transforms-2/files-2.1/27b47beae3a6c64ae35ac16c3b640ef2/res/values-v16/values-v16.xml",
+                    "source": "/home/leo/.gradle/caches/transforms-2/files-2.1/13b8ba3a5883b1225a5731f08a19d74c/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/home/leo/.gradle/caches/transforms-2/files-2.1/383c89e617a95ee2d08810b96204294c/res/values-v16/values-v16.xml",
+                    "source": "/home/leo/.gradle/caches/transforms-2/files-2.1/30e3f546eac6476496a8d5a9ec512a18/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
